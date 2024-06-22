@@ -1,3 +1,3 @@
 # .epg.db
 
-epb.db 파일 저장소
+epb_data.db 파일 저장소
